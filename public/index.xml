@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amy Zhou</title>
-    <link>https://azhou.dev/</link>
+    <link>//dsksi.github.io/</link>
     <description>Recent content on Amy Zhou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     
-	<atom:link href="https://azhou.dev/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//dsksi.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
